@@ -24,6 +24,14 @@ a {
     color:aliceblue;
 }
 
+/* utility classes */
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+
 h1,
 h3 {
     text-align: center;
